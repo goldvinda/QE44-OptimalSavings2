@@ -1,4 +1,4 @@
-# Cake Eating I: Introduction to Optimal Saving (Numerical)
+# Cake Eating II: Introduction to Optimal Saving (Numerical)
 
 This is Quantecon Lecture 44: Intro to Optimal Savings 2
 
